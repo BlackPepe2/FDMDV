@@ -1,0 +1,5 @@
+2 SCouttx
+0 SCintx
+0 SCoutrx
+3 SCintx
+HB9TLK Callsign
