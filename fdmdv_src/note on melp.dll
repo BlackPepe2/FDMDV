@@ -1,0 +1,23 @@
+/*
+ * MELP 1400 bps rate-reduced variant (for FDMDV)
+ *
+ * Based on the original 2.4 kbit/s MELP reference implementation
+ * released by the U.S. Department of Defense (MIL-STD-3005).
+ * The original reference code is public domain / U.S. Government work
+ * and was freely usable at the time of development.
+ *
+ * At the time of creation (2006–2008), the MELPe standard (with 1200/600 bps modes)
+ * did not exist in any usable form for civilian or amateur developers and was
+ * not available outside restricted military/commercial channels.
+ *
+ * Modification: extended voice frame / superframe size to reach ~1400 bps operation
+ *               (slightly reduced quality)
+ *
+ * Copyright (C) 2008 Francesco Lanza (HB9TLK) on the modifications only
+ *
+ * The modifications made to the original MELP code are licensed under the
+ * GNU General Public License version 3 (or any later version at your option).
+ *
+ * Shared for historical, educational and amateur radio purposes.
+ * Use at your own risk.
+ */
